@@ -167,14 +167,4 @@ Before you begin, ensure you have the following installed:
 
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-"""
-
-# Writing the content to README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
