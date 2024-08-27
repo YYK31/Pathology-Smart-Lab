@@ -1,5 +1,4 @@
-# Writing the README file content to a text file named "README.md"
-readme_content = """
+
 # Baneshwar Smart Pathology Lab
 
 Welcome to the Baneshwar Smart Pathology Lab project! This is a web application developed to manage various aspects of a pathology lab, including patient management, doctor appointments, lab tests, and administrative functions. The application is built using React for the front end and Java for the back end, with a RESTful API for communication between them.
